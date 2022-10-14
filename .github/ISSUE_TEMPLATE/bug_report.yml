@@ -18,7 +18,9 @@ body:
   - type: textarea
     attributes:
       label: Logs
-      description: You can paste any relevant logs here, they'll be automatically rendered in code blocks. You can find your logs in `storage/logs`. Please post full exception stack traces.
+      description: |
+        You can paste any relevant logs here, they'll be automatically rendered in code blocks. You can find your logs in `storage/logs`
+        Please post full exception stack traces.
       render: shell
   - type: textarea
     attributes:

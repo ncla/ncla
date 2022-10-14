@@ -50,7 +50,7 @@ body:
         - regex (default)
         - runtime (new)
     validations:
-      required: false
+      required: true
   - type: textarea
     attributes:
       label: Additional details

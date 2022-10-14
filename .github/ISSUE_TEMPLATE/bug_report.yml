@@ -1,5 +1,5 @@
 name: Bug report
-description: Fill out a bug report to help us improve Statamic.
+description: Fill out a bug report to help us improve Responsive Images addon
 body:
   - type: textarea
     attributes:
@@ -11,14 +11,14 @@ body:
   - type: textarea
     attributes:
       label: How to reproduce
-      description: List the steps so we're able to recreate this bug. Bonus points if you can provide an example GitHub repo with this bug reproduced.
+      description: List the steps so we're able to recreate this bug. Bonus points if you can provide an example GitHub repo with this bug reproduced on a clean Statamic install.
       placeholder: Go here, Type this, Click that, Look over there.
     validations:
       required: true
   - type: textarea
     attributes:
       label: Logs
-      description: You can paste any relevant logs here, they'll be automatically rendered in code blocks. You can find your logs in `storage/logs`.
+      description: You can paste any relevant logs here, they'll be automatically rendered in code blocks. You can find your logs in `storage/logs`. Please post full exception stack traces.
       render: shell
   - type: textarea
     attributes:

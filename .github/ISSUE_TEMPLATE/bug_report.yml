@@ -45,7 +45,7 @@ body:
   - type: dropdown
     attributes:
       label: Antlers Parser
-      description: If using 3.3+, which Antlers Parser are you using?
+      description: Which Antlers Parser are you using?
       options:
         - regex (default)
         - runtime (new)

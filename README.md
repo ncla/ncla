@@ -5,7 +5,7 @@
 ### 2022
 
 I have been contributing code quite a bit in the Statamic eco-system. While some of these PRs might appear simple, minimal on surface level, behind the scenes they required some code diving to understand what is going on.
-- spatie/statamic-responsive-images#174 - Fix placeholder svg generation failing when switching `cache` boolean value
+- spatie/statamic-responsive-images#174 - Fix placeholder svg generation failing when changing `assets.image_manipulation.cache`
 - spatie/statamic-responsive-images#173 - Fix `src` saving as an array and not as string
 - statamic/cms#6854 - Preserve asset data from fields when running `statamic:assets:meta` generation command
 - statamic/cms#6816 - Data list's toggle all button now selects maximum possible entries

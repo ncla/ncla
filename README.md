@@ -2,7 +2,13 @@
 
 ### Pull requests
 
+### 2023
+
+I have been trusted and given repository admin access to [statamic-responsive-images addon](https://github.com/spatie/statamic-responsive-images) and I continue to contribute code to this addon. Additionally I now review other people pull requests and manage opened issues.
+
 ### 2022
+
+Participated in and completed Hacktoberfest 2022.
 
 I have been contributing code quite a bit in the Statamic eco-system. While some of these PRs might appear simple, minimal on surface level, behind the scenes they required some code diving to understand what is going on.
 - spatie/statamic-responsive-images#174 - Fix placeholder generation failing when changing `assets.image_manipulation.cache`

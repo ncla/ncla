@@ -4,7 +4,7 @@
 
 ### 2023
 
-I have been trusted and given repository admin access to [statamic-responsive-images addon](https://github.com/spatie/statamic-responsive-images) and I continue to contribute code to this addon. Additionally I now review other peoples pull requests and manage opened issues.
+I have been trusted and given repository admin access to [statamic-responsive-images addon](https://github.com/spatie/statamic-responsive-images) and I continue to contribute code to this addon. Additionally I now review other people's pull requests and manage opened issues.
 
 ### 2022
 

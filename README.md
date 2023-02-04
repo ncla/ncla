@@ -4,7 +4,15 @@
 
 ### 2023
 
+#### Responsive Images addon
+
 I have been trusted and given repository admin access to [statamic-responsive-images addon](https://github.com/spatie/statamic-responsive-images) and I continue to contribute code to this addon. Additionally I now review other people's pull requests and manage opened issues.
+
+Shipped a big breaking change update to the addon, which allows developers to customize responsive images dimensions output. https://github.com/spatie/statamic-responsive-images/pull/193
+
+#### Statamic Focal Point Fieldtype addon
+
+Created and published [my own little addon for Statamic](https://github.com/ncla/statamic-focal-point-fieldtype) which allows users to set focal point for an asset in a separate field, as currently in Statamic the focal point values are stored and tied to a single asset at a time.
 
 ### 2022
 

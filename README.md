@@ -1,7 +1,5 @@
 ### 👋
 
-### Pull requests
-
 ### 2023
 
 #### Responsive Images addon

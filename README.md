@@ -1,5 +1,9 @@
 ### 👋
 
+### 2025
+
+Currently I am rewriting my simple Discord social feed bot for Discord server from 2017 with TypeScript and with goal to have full test coverage for the project. https://github.com/ncla/muse-discord-updates-bot-ts
+
 ### 2023
 
 #### Responsive Images addon
